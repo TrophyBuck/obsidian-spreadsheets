@@ -18,7 +18,9 @@ function set_ctx_pos(el) {
 
   let r = document.querySelector(':root');
   if(p.x){
+    // @ts-ignore (existing error from start of fork)
     r.style.setProperty('--ctx_menu_x',  -1*p.x + "px" );
+    // @ts-ignore (existing error from start of fork)
     r.style.setProperty('--ctx_menu_y', (-1*p.y + 50 )+ "px"  );
   }
   
