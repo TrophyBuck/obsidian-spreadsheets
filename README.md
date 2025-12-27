@@ -1,8 +1,8 @@
-# Obsidian Spreadsheets Plugin
+# Obsidian Spreadsheets Mobile Plugin
 
 This plugin gives you all the features of a standard spreadsheet tool in Obsidian. You can build powerful spreadsheets within Obsidian. 
 
-This plugin is based on FortuneSheet, which is based on [Luckysheet](https://github.com/dream-num/Luckysheet). 
+This plugin is a fork of the original based on FortuneSheet, which is based on [Luckysheet](https://github.com/dream-num/Luckysheet). It adds support for mobile devices.
 
 ### Features: 
 

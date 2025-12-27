@@ -1,9 +1,9 @@
 {
-	"id": "spreadsheets",
-	"name": "Spreadsheets",
-	"version": "1.0.1",
+	"id": "spreadsheets-mobile",
+	"name": "Spreadsheets Mobile",
+	"version": "1.0.2",
 	"minAppVersion": "0.15.0",
-	"description": "Plugin to create spreadsheets in Obsidian.",  
+	"description": "Plugin to create spreadsheets in Obsidian, with mobile support.",  
 	"author": "Divam Gupta",
 	"authorUrl": "https://divam.io",
 	"isDesktopOnly": false
